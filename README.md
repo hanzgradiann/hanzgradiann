@@ -5,5 +5,5 @@ instagram: hanzstrongboyss
 =====================================
 This is a Script Ddos
 ============≠===========≠============
-a telegram bot thats can run a various attack methods in your terminal(termux, vps, & pterodactyl)
+thats can run a various attack methods in your terminal(termux, vps, & pterodactyl)
 =====================================
